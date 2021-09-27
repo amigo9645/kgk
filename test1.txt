@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1I love Belchik! 
 11
 123
@@ -9,3 +10,10 @@ Test rm delet
 test checkout
 test rm
 
+=======
+I love Belch! 
+11
+123
+It's new line! 
+ттт
+>>>>>>> parent of 54920e4 (Belchara vonychaya)
