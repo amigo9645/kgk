@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-1I love Belchik! 
-11
-123
-It's new line! 
-ттт
-Test rm 
-Test rm delet
-21
-test checkout
-test rm
 
-=======
 I love Belch! 
 11
 123
