@@ -6,3 +6,4 @@ It's new line!
 ттт
 >>>>>>> parent of 54920e4 (Belchara vonychaya)
 brench dev
+before git rebase
