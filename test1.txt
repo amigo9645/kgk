@@ -7,3 +7,4 @@ It's new line!
 >>>>>>> parent of 54920e4 (Belchara vonychaya)
 brench dev
 before git rebase
+Test push 
